@@ -13,7 +13,7 @@ Outline of Daily Activities:
 - Assigned Reading and Recent Events [before class]
 - Current Events Discussion [~20 minutes]
 - Assigned Reading Discussion by the Students [~40 minutes]
-- Topic of the Day by the Isntructors [~1 hour]
+- Topic of the Day by the Instructors [~1 hour]
 - Demonstration [~1 hour]
 
 Topics of interest:
