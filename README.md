@@ -14,7 +14,7 @@ Outline of Daily Activities:
 - Current Events Discussion [~20 minutes]
 - Assigned Reading Discussion by the Students [~40 minutes]
 - Topic of the Day by the Isntructors [~1 hour]
-- Demonstration [~ hour]
+- Demonstration [~1 hour]
 
 Topics of interest:
 - Basic Electronics
