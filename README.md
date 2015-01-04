@@ -7,7 +7,7 @@ Distribution: Q E
 Schedule: Dates: Jan 5-23, 2015 MWTh 2:30-5:45PM  
 Instructors: Michael Rushanan and Paul Martin  
 
-Our favorite electronic devices, such as gaming consoles and smartphones, have a common root _—_ hardware. These deceptively simple interconnections of electronic components perform arithmetic and logic operations that enable our devices to interact with us and extend methods for security, communication, and marketing. In this course, we survey current events, articles, and academic papers that furnish a practical, and relevant, understanding of hardware hacking (e.g., open-source hardware). We proivde hands-on demonstrations that explore design and prototyping, system repair and modification, and hardware emulation.
+Our favorite electronic devices, such as gaming consoles and smartphones, have a common root _—_ hardware. These deceptively simple interconnections of electronic components perform arithmetic and logic operations that enable our devices to interact with us and extend methods for security, communication, and marketing. In this course we survey current events, articles, and academic papers that furnish a practical, and relevant, understanding of hardware hacking (e.g., open-source hardware). We proivde hands-on demonstrations that explore design and prototyping, system repair and modification, and hardware emulation.
 
 Outline of Daily Activities:
 - Assigned Reading and Recent Events [before class]
