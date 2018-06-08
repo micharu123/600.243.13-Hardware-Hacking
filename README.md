@@ -18,7 +18,7 @@ Outline of Daily Activities:
 
 Topics of interest:
 - Basic Electronics
-- Computer Archiecture
+- Computer Architecture
 - Microcontrollers
 - Gaming Consoles
 - Smartphones
